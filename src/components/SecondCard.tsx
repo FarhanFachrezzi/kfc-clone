@@ -27,7 +27,7 @@ const SecondCart = () => {
         className="w-full h-full object-cover"
       />
       <div className="absolute bottom-1 left-3 flex gap-1">
-        {cardItems.map((card, index) => {
+        {cardItems.map((_card, index) => {
           if (currentIndex === index) {
             return (
               <div
