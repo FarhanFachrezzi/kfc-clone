@@ -1,0 +1,46 @@
+[
+  {
+    "src": "./public/asset/menu icon/box meal.png",
+    "nama_product": "box meal"
+  },
+  {
+    "src": "./public/asset/menu icon/bucket.png",
+    "nama_product": "paket bucket"
+  },
+  {
+    "src": "./public/asset/menu icon/combo.png",
+    "nama_product": "combo"
+  },
+  {
+    "src": "./public/asset/menu icon/drinks.png",
+    "nama_product": "drinks"
+  },
+  {
+    "src": "./public/asset/menu icon/kentang.png",
+    "nama_product": "fries"
+  },
+  {
+    "src": "./public/asset/menu icon/keripik.png",
+    "nama_product": "keripik"
+  },
+  {
+    "src": "./public/asset/menu icon/kid menu.png",
+    "nama_product": "kid menu"
+  },
+  {
+    "src": "./public/asset/menu icon/nugget.png",
+    "nama_product": "nugget"
+  },
+  {
+    "src": "./public/asset/menu icon/paket.png",
+    "nama_product": "paket special"
+  },
+  {
+    "src": "./public/asset/menu icon/sauce.png",
+    "nama_product": "sauce"
+  },
+  {
+    "src": "./public/asset/menu icon/single product.png",
+    "nama_product": "single product"
+  }
+]

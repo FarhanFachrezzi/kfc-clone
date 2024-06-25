@@ -1,0 +1,22 @@
+[
+  {
+    "src": "./public/asset/banner/paket 1.png",
+    "description": "Family Paket Campaign"
+  },
+  {
+    "src": "./public/asset/banner/paket 2.png",
+    "description": "Winger Bucket Special"
+  },
+  {
+    "src": "./public/asset/banner/paket 3.png",
+    "description": "Combo Special "
+  },
+  {
+    "src": "./public/asset/banner/paket 4.png",
+    "description": "Original Signature "
+  },
+  {
+    "src": "./public/asset/banner/paket 5.png",
+    "description": "Double Combo"
+  }
+]

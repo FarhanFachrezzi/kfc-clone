@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Friz";
+  src: url("../public/fonts/Friz Quadrata Bold.otf");
+}
+
+@layer base {
+  .slick-slide {
+    width: 120px;
+  }
+}
